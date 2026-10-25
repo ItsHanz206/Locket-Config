@@ -67,8 +67,8 @@ if (ua.includes("Locket")) {
         android_subscribe_gold_button_enabled: "false",
         profile_badge_visible: "true",
         lunar_new_year_app_icon_enabled: "true",
-        settings_instagram_url: "https://www.instagram.com/dwcbao_/",
-        settings_tiktok_url: "https://www.tiktok.com/@emmitcute6"
+        settings_instagram_url: "https://www.instagram.com/_its.hanz.nvrluv_/",
+        settings_tiktok_url: "https://www.tiktok.com/@_h.a.18t12_"
     });
 
     // ============================================================
